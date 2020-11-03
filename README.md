@@ -3,8 +3,8 @@
 ## 按常见数据结构组成目录  
 
   数组  
-  
-  [66-plusOne](array/66-plusOne/readme.md)
+
+  [66-plusOne](array/66-plusOne)
 
 ## 衡量算法的性能
 
