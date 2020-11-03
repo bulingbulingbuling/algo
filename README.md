@@ -5,6 +5,7 @@
   数组  
 
   [66-plusOne](array/66-plusOne)
+  [821-shortestToChar](array/821-shortestToChar)
 
 ## 衡量算法的性能
 
