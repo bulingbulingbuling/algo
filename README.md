@@ -5,6 +5,7 @@
   数组  
 
   [66-plusOne](array/66-plusOne)
+  [leetcode](https://leetcode-cn.com/problems/plus-one/)
   
   [821-shortestToChar](array/821-shortestToChar)
 
